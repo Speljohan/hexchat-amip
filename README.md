@@ -3,6 +3,14 @@ hexchat-amip
 
 A very simple python plugin that lets you announce the currently played song from any player utilizing AMIP.
 
+Requirements
+-------------
+
+* Any version of HexChat ( http://hexchat.org/ )
+* AMIP for your music player ( http://amip.tools-for.net/wiki/start )
+* A music player of your choice that is supported by AMIP :)
+
+
 Configuration
 -------------
 
