@@ -13,7 +13,7 @@ Since it relies on AMIP, you set it up using the AMIP configuration tool.
 3. Under "File Integration", choose a path and check the "Enabled" checkbox.
 4. Under the different play state tabs, set up your announcement string. (see: Help)
 5. Check "Update file every second"
-6. Set the necessary variable in the python script to point towards your exported AMIP text file.
+6. Set AMIP_FILE in the python script to the path your exported AMIP text file.
 7. Done!
 
 Commands
